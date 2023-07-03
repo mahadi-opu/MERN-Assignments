@@ -31,4 +31,4 @@ https://mahadi-opu.github.io/MERN-Assignments/Assignment-8/index.html
 https://mahadi-opu.github.io/MERN-Assignments/Assignment-9/index.html
 
 ### Assignment-10 live link:
-https://mahadi-opu.github.io/MERN-Assignments/Assignment-10/index.html
+https://mahadi-opu.github.io/MERN-Assignments/Assignment-10/Facebook-Timeline/
