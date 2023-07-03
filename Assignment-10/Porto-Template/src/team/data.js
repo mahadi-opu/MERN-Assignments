@@ -1,5 +1,3 @@
-
-
 const teams = [
     {
         id : 1,
@@ -117,5 +115,50 @@ const teams = [
             pintarest:"https://www.pinterest.com/",
             twitter:"https://twitter.com/"
         }
+    },
+]
+
+
+
+const products = [
+    {
+        id : 1,
+        product_name : 'Photo Camera',
+        product_price : 69,
+        product_category : "ELECTRONICS",
+        product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
+        product_images: './img/team/team-1.jpg',
+    },
+    {
+        id : 2,
+        product_name : 'Porto Headphone',
+        product_price : 69,
+        product_category : "ELECTRONICS",
+        product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
+        product_images: './img/team/team-1.jpg',
+    },
+    {
+        id : 3,
+        product_name : 'Golf Bag',
+        product_price : 69,
+        product_category : "ELECTRONICS",
+        product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
+        product_images: './img/team/team-1.jpg',
+    },
+    {
+        id : 4,
+        product_name : 'Workout',
+        product_price : 69,
+        product_category : "ELECTRONICS",
+        product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
+        product_images: './img/team/team-1.jpg',
+    },
+    {
+        id : 5,
+        product_name : 'Luxury Bag',
+        product_price : 69,
+        product_category : "ELECTRONICS",
+        product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
+        product_images: './img/team/team-1.jpg',
     },
 ]

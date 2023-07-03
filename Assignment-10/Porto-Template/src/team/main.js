@@ -22,16 +22,13 @@ teams.map((item, index)=> {
         <span class="thumb-info-social-icons mb-4">
           <a target="_blank" href="${item.social.facebook}"
             ><i class="fab fa-facebook-f"></i
-            ><span>Facebook</span></a
-          >
+            ><span>Facebook</span></a>
           <a href="${item.social.linkdin}"
             ><i class="fab fa-linkedin-in"></i
-            ><span>Linkedin</span></a
-          >
+            ><span>Linkedin</span></a>
           <a href="${item.social.twitter}"
           ><i class="fab fa-twitter"></i
-          ><span> twitter </span></a
-        >
+          ><span> twitter </span></a>
         </span>
       </span>
     </span>
@@ -42,3 +39,4 @@ teams.map((item, index)=> {
 });
 
 teamArea.innerHTML = teamList;
+
