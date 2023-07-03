@@ -2,7 +2,7 @@
 const product= [
     {
         id : 1,
-        product_name : 'Photo Camera',
+        product_name : 'Photo Camera 1',
         product_price : 69,
         product_category : "ELECTRONICS",
         product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
@@ -10,7 +10,7 @@ const product= [
     },
     {
         id : 2,
-        product_name : 'Porto Headphone',
+        product_name : 'Porto Headphone 2',
         product_price : 69,
         product_category : "ELECTRONICS",
         product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
@@ -18,7 +18,7 @@ const product= [
     },
     {
         id : 3,
-        product_name : 'Golf Bag',
+        product_name : 'Golf Bag 3',
         product_price : 69,
         product_category : "ELECTRONICS",
         product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
@@ -26,7 +26,7 @@ const product= [
     },
     {
         id : 4,
-        product_name : 'Workout',
+        product_name : 'Workout 4',
         product_price : 69,
         product_category : "ELECTRONICS",
         product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
@@ -34,7 +34,7 @@ const product= [
     },
     {
         id : 5,
-        product_name : 'Luxury Bag',
+        product_name : 'Luxury Bag 5',
         product_price : 69,
         product_category : "ELECTRONICS",
         product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
@@ -42,7 +42,7 @@ const product= [
     },
     {
         id : 6,
-        product_name : 'Luxury Bag',
+        product_name : 'Luxury Bag 6',
         product_price : 69,
         product_category : "ELECTRONICS",
         product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
@@ -50,7 +50,7 @@ const product= [
     },
     {
         id : 7,
-        product_name : 'Luxury Bag',
+        product_name : 'Luxury Bag 7',
         product_price : 69,
         product_category : "ELECTRONICS",
         product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
@@ -58,7 +58,7 @@ const product= [
     },
     {
         id : 8,
-        product_name : 'Luxury Bag',
+        product_name : 'Luxury Bag 8',
         product_price : 69,
         product_category : "ELECTRONICS",
         product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
@@ -66,7 +66,7 @@ const product= [
     },
     {
         id : 9,
-        product_name : 'Luxury Bag',
+        product_name : 'Luxury Bag 9',
         product_price : 69,
         product_category : "ELECTRONICS",
         product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
@@ -74,7 +74,7 @@ const product= [
     },
     {
         id : 10,
-        product_name : 'Luxury Bag',
+        product_name : 'Luxury Bag 10',
         product_price : 69,
         product_category : "ELECTRONICS",
         product_description : 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras ac ligula mi, non suscipitaccums',
