@@ -12,10 +12,9 @@ The MERN stack is a popular web development framework that combines four key tec
 - **[Assignment-6 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-6/index.html)**
 - **[Assignment-7 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-7/index.html)**
 - **[Assignment-8 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-8/index.html)**
-- **[Assignment-9 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-9/index.html)**
-- **[Assignment-10 Facebook-Timeline live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-10/Facebook-Timeline/)**
-- **[Assignment-10 Porto-Templat live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-10/Porto-Template/)**
-
+- **[Assignment-9 Facebook-Timeline live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-9/Facebook-Timeline/)**
+- **[Assignment-10 Porto-Templat live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-9/Porto-Template/)**
+- **[Assignment-10 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-9/index.html)**
 
 ## Here's an overview of the different components of a typical MERN course:
 
