@@ -1,0 +1,59 @@
+/* Google Font P */
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700;900&display=swap');
+
+  *{
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter', sans-serif;
+    box-sizing: border-box;
+  }
+  .todo{
+    width: 500px;
+    margin: 100px auto 0px;
+  }
+  .todo .add_new_todo{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+  .todo .add_new_todo input {
+    width: 90%;
+    padding: 7px;
+    outline: none;
+    border: 1px solid green;
+  }
+  .todo .add_new_todo button {
+    width: 10%;
+    padding: 7px;
+    outline: none;
+    color: white;
+    border: 1px solid green;
+    background-color: green;
+    cursor: pointer;
+  }
+  .todo ul{
+    margin-top: 15px;
+  }
+  .todo ul li{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    background-color: aquamarine;
+  }
+  .todo ul li p{
+    font-size: 22px;
+    font-weight: 400;
+    padding: 0px 10px;
+  }
+  .todo ul li p i{
+    color: blue;
+  }
+  .todo ul li button{
+    padding: 10px;
+    background-color: red;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
