@@ -4,17 +4,17 @@ The MERN stack is a popular web development framework that combines four key tec
 
 ### MERN_Assignments
 
-- **[Assignment-1 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-1/index.html)**
-- **[Assignment-2 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-2/index.html)**
-- **[Assignment-3 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-3/index.html)**
-- **[Assignment-4 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-4/index.html)**
-- **[Assignment-5 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-5/index.html)**
-- **[Assignment-6 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-6/index.html)**
-- **[Assignment-7 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-7/index.html)**
-- **[Assignment-8 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-8/index.html)**
-- **[Assignment-9 Facebook-Timeline live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-9/Facebook-Timeline/)**
-- **[Assignment-9 Porto-Templat live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-9/Porto-Template/)**
-- **[Assignment-10 live link](https://mahadi-opu.github.io/MERN-Assignments/Assignment-9/index.html)**
+- **[Assignment-1 live link](https://mahadi-opu.github.io/mern3-project/Assignment-1/index.html)**
+- **[Assignment-2 live link](https://mahadi-opu.github.io/mern3-project/Assignment-2/index.html)**
+- **[Assignment-3 live link](https://mahadi-opu.github.io/mern3-project/Assignment-3/index.html)**
+- **[Assignment-4 live link](https://mahadi-opu.github.io/mern3-project/Assignment-4/index.html)**
+- **[Assignment-5 live link](https://mahadi-opu.github.io/mern3-project/Assignment-5/index.html)**
+- **[Assignment-6 live link](https://mahadi-opu.github.io/mern3-project/Assignment-6/index.html)**
+- **[Assignment-7 live link](https://mahadi-opu.github.io/mern3-project/Assignment-7/index.html)**
+- **[Assignment-8 live link](https://mahadi-opu.github.io/mern3-project/Assignment-8/index.html)**
+- **[Assignment-9 Facebook-Timeline live link](https://mahadi-opu.github.io/mern3-project/Assignment-9/Facebook-Timeline/)**
+- **[Assignment-9 Porto-Templat live link](https://mahadi-opu.github.io/mern3-project/Assignment-9/Porto-Template/)**
+- **[Assignment-10 live link](https://mahadi-opu.github.io/mern3-project/Assignment-9/index.html)**
 
 ## Here's an overview of the different components of a typical MERN course:
 
